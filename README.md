@@ -2,6 +2,7 @@
 ArcGIS API for python was used to visualize covid-19 deaths in Italy
 
 **Objective**
+
 The ArcGIS API for Python can be applied to visualize COVID-19 deaths in Italy using GIS analysis. It illustrates the use of Python to handle, analyze, and visualize geospatial data effectively through the following key aspects:
 
 It contains sections detailing the following processes:
